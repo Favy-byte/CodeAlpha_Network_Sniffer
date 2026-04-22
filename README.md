@@ -87,9 +87,8 @@ Security Assessment: LEGITIMATE
 
 
 ## Screenshot
-Wireshark Capture Analysis
-!
-
+## Wireshark Capture Analysis
+![Wireshark Capture](wireshark_capture.png)
 *PCAP file opened in Wireshark showing captured packets*
 
 
