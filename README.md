@@ -59,13 +59,13 @@ Payload analysis shows:
 
 
 ## Sample Output
-Time:                   2026-04-09 13:45:22
-Source IP:              192.168.x.x
-Destination IP:         142.168.x.x
-Protocol:               TCP
-Source Port:            54321 (Port-54321)
-Dest Port:              443 (HTTPS)
-Payload (first 50 bytes):
+- Time:                   2026-04-09 13:45:22
+- Source IP:              192.168.x.x
+- Destination IP:         142.168.x.x
+- Protocol:               TCP
+- Source Port:            54321 (Port-54321)
+- Dest Port:              443 (HTTPS)
+- Payload (first 50 bytes):
   HEX: 16030100c7010000c3...
   ASCII: ..GET / HTTP/ 1.1...
 
